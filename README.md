@@ -2,6 +2,7 @@
 
 Feladatok megoldása
 
-* `selenium-py`: 
-[Szoftvertesztelés Selenium Webdriverrel (SV-PM)](https://e-learning.training360.com/courses/take/szoftverteszteles-selenium-webdriverrel-sv-pm/lessons/34340465-a-programozasi-nyelvekrol-altalaban) videósorozat feladatai. A feladatok [github](https://github.com/Training360/selenium-py) -on érhetők el. 
+* `selenium-py` könyvtár: 
+[Szoftvertesztelés Selenium Webdriverrel (SV-PM)](https://e-learning.training360.com/courses/take/szoftverteszteles-selenium-webdriverrel-sv-pm/lessons/34340465-a-programozasi-nyelvekrol-altalaban) videósorozat feladatai. A feladatok [github](https://github.com/Training360/selenium-py) -on érhetők el.
+* `car_salon` könyvtár: az autó szalonos feladat
 
