@@ -1,0 +1,31 @@
+Element Kitchen Sink,http://selenium.oktwebs.training360.com/kitchensink.html
+General text and other elements,http://selenium.oktwebs.training360.com/general.html
+Embedding other content,http://selenium.oktwebs.training360.com/embeds.html
+Tricky buttons,http://selenium.oktwebs.training360.com/trickybuttons.html
+Tricky elements,http://selenium.oktwebs.training360.com/trickyelements.html
+Tricky forms,http://selenium.oktwebs.training360.com/trickyforms.html
+Hovering mouse example,http://selenium.oktwebs.training360.com/mousehover.html
+Right click context menu,http://selenium.oktwebs.training360.com/contextmenu.html
+Drag and Drop Example1,http://selenium.oktwebs.training360.com/dragndrop1.html
+Drag and Drop Example2,http://selenium.oktwebs.training360.com/dragndrop2.html
+Drag and Drop Example3,http://selenium.oktwebs.training360.com/dragndrop3.html
+Classic Form Elements,http://selenium.oktwebs.training360.com/forms.html
+ReactJS modern forms,http://selenium.oktwebs.training360.com/react_form.html
+Simple form validations,http://selenium.oktwebs.training360.com/simplevalidation.html
+Multistep form,http://selenium.oktwebs.training360.com/multistepform.html
+Form with table and sum function,http://selenium.oktwebs.training360.com/filltablewithsum.html
+Another form with talbe and validation,http://selenium.oktwebs.training360.com/another_form.html
+Responisve Table Example,http://selenium.oktwebs.training360.com/responsive-table.html
+Editable Table Example,http://selenium.oktwebs.training360.com/editable-table.html
+Videos example,http://selenium.oktwebs.training360.com/videos.html
+File upload progress,http://selenium.oktwebs.training360.com/filepuploadprogress.html
+File drag and drop upload,http://selenium.oktwebs.training360.com/filedragndropupload.html
+File export,http://selenium.oktwebs.training360.com/exporttofile.html
+Classic pagination with controls,http://selenium.oktwebs.training360.com/pagination.html
+Load more elements based on button click,http://selenium.oktwebs.training360.com/loadmore.html
+Scroll down to load more elements,http://selenium.oktwebs.training360.com/scrolltoload.html
+Todo application,http://selenium.oktwebs.training360.com/todo.html
+Minesweeper Game,http://selenium.oktwebs.training360.com/minesweeper-game.html
+Memory Game,http://selenium.oktwebs.training360.com/memory-game.html
+Sudoku game,http://selenium.oktwebs.training360.com/sudoku.html
+Calculator app,http://selenium.oktwebs.training360.com/calculator.html
