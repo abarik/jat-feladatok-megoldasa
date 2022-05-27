@@ -8,16 +8,15 @@ def show_screen():
     Menü megjelenítése
     """
     print('0. Menü nyomtatása')
-    print('1. Kocsi felvétel.  Adja meg a kocsi adatait.')
+    print('1. Kocsi felvétel. Adja meg a kocsi adatait.')
     print('2, Összes kocsi adatainak lekérdezese')
-    print('3. Elado felvétel.  Adja meg az eladó adatait.')
+    print('3. Elado felvétel. Adja meg az eladó adatait.')
     print('4, Elado adatainak lekérdezese')
-    print('5. Vevő felvétel.  Adja meg a vevő adatait.')
+    print('5. Vevő felvétel. Adja meg a vevő adatait.')
     print('6, Összes vevő adatainak lekérdezese')
     print('7, Kocsi eladása')
     print('8, Eladások listája')
-    print('9, Kilépés az applikáciobol')
-
+    print('9, Kilépés az applikációból')
 
 
 show_screen()  # kiírás a képernyőre

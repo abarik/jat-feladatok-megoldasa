@@ -65,7 +65,8 @@ class Bolt:
             if k.ID == int(k_id):
                 break
             i += 1
-        del self.kocsik[i]
+        if i in range(len(self.kocsik)):
+            del self.kocsik[i]
 
     def lista_eladas(self):
         if len(self.eladasok) == 0:
